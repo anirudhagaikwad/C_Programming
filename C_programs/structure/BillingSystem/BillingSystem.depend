@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668420813 source:c:\bodhiacademi\c_c++\workplace\billingsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bill.h"
+
+1668422556 c:\bodhiacademi\c_c++\workplace\billingsystem\bill.h
+	<string.h>
+

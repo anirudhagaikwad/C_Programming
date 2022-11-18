@@ -1,0 +1,33 @@
+/* Program to print C using # Pattern */
+#include<stdio.h>
+int main(){
+int a,b,c,d,e;
+for(a=0;a<=11;a++){
+    for(b=0;b<=2;b++){ //line
+        printf("*");
+    }
+    for(c=1;c<=a;c++){ //bottom right triangle
+        printf(" ");
+    }
+    for(b=0;b<=2;b++){//line
+        printf("*");
+    }
+    for(d=10;d>=a;d--){ //middle portion of M
+        printf("  ");
+    }
+    for(b=0;b<=2;b++){ //line
+        printf("*");
+    }
+    for(c=1;c<=a;c++){ //bottom left triangle
+        printf(" ");
+    }
+
+    for(b=0;b<=2;b++){
+        printf("*");
+    }
+
+
+    printf("\n");
+} // end for end for
+return 0;
+}
