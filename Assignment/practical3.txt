@@ -1,0 +1,14 @@
+1)Write & execute all programs which we learned in 
+  Theory class
+2)Write code for swaping two numbers without using 
+  third variable
+3)Write code for swaping two numbers with using 
+  third variable
+4)Take two numbers from user and check that number  
+  is lower or greater
+5)Write program to convert Tyre Air Pressure, 
+  Units : psi,bar,kPa
+  psi<-->bar , psi<-->kPa ,bar<-->kPa 
+6)Write code for convert temprature i.e. celcius to 
+  farenheit and farenheit to celcius take user input 
+  for celcius & farenheit 

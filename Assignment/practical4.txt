@@ -1,0 +1,13 @@
+1)Write & execute all programs which we learned  
+  in Theory class
+
+2)Write code for calculate Grade according CGPA
+
+3)Write code to find even-odd number
+
+4)Write code to calculate number of days in 
+  perticular month and year , month & year is  
+  enter by user
+
+5)display number of month ,based on the month 
+  name 

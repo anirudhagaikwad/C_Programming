@@ -1,0 +1,7 @@
+1)Write,execute and debug all programs which we learned in 
+  Theory class
+
+2)Write code to print your first name in * pattern using Array
+
+3)Write code to find unique element in arrays
+

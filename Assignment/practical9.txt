@@ -1,0 +1,22 @@
+1)Write,execute and debug all programs which we  
+  learned in Theory class
+
+2)Write code to intitialize array at compile time
+  float x[]; int y[8][4];
+
+3)Write a code to access array elements from Q2 
+  array  
+
+4)Write code to access specific elements from Q2 
+  array --> y[5][3];  element 4 from x array
+
+5)Write code to traversing elements of Array
+  
+6)Write a code to update elements of array
+
+7)write code to initialize array at run time
+  a[]; b[][];
+8)Find minimum element from Q2
+ 
+Note : Use header file for eache problem statement.
+

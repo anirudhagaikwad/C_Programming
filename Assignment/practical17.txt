@@ -1,0 +1,14 @@
+
+1)Write,execute and debug all programs which we learned in 
+  Theory class
+
+2)Write program to display five student information using 
+  structure pointer variable and store this information into 
+  File
+
+3)Write code to display Five Book information using dynamic  
+  memory allocation and store this info into File
+
+4)Write code to store your pattern name into file
+
+5)Write code to display content on console from file(Q3 File)

@@ -1,0 +1,11 @@
+1)Download MinGW and install
+2)Check GCC version
+3)Download and install CodeBlocks
+4)Write C Code for display HELLO
+5)Write code to display Traingle Star 
+  pattern using escape sequenses
+6)Write code to display your name using 
+  ASCII value
+7)Write code to display Your name in 
+  your native language
+  https://unicode-table.com/

@@ -1,0 +1,22 @@
+1)Write,execute and debug all programs which we  
+  learned in Theory class
+
+2)Write code to intitialize array at compile time
+  char x[]; char y[3][6];
+
+
+3)Write a code to access array elements from Q2 
+  array  
+
+4)Write code to access specific elements from Q2 
+  array --> y[2][0];  element 3 from x array
+  
+5)Write a code to update elements of char array x & y
+
+6)write code to initialize array at run time
+  char a[]; char b[][];
+
+7)Perform UpperCase,LowerCase,Reverse operation on x string
+
+  
+

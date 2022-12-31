@@ -1,0 +1,14 @@
+1)Write,execute and debug all programs which we learned in 
+  Theory class
+
+2)Write code to perform aithemetic operation using pointer
+
+3)Write code to reverse array using pointers
+
+4)Write code to search element from array using pointer
+
+5)Write program to return multiple values from function using
+  pointer
+
+6)Write code to find string length using pointer  "\033[1;31m"
+

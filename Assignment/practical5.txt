@@ -1,0 +1,13 @@
+1)Write & execute all programs which we learned  
+  in Theory class
+
+2)Write code for print alphabet in following format
+   A
+   BB
+   CCC 
+
+3)Write code to print Day string given date by user
+
+4)Write code to print first alphabet of your name
+  using * or #
+

@@ -1,0 +1,21 @@
+1)Write code for print A to Z characters,use continue when 'H'  
+  find
+
+2)Write code for print ASCII Values of following alphabet in 
+  inverted format like..
+   --> DEF
+       BC
+       A 
+
+3)Alter last code which we learned in Therory class for correct  
+  output with logical thinking
+  
+
+4)Write code to print first alphabet of your name
+  using * or #
+
+5)Create infinit loop for menu driven program,each loop use new file
+  - For Loop : mathematic operations
+  - While Loop : Currency exchange
+  - Do-While Loop : Unit converter - KM to meter ,CM to meter,Feet to Inch
+

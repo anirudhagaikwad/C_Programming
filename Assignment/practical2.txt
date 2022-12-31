@@ -1,0 +1,11 @@
+1)Write & execute all programs which  
+  we learned in Theory class
+2)Find basic datatype range and size
+  using program
+3)Check is basic datatype value is  
+  overflow or not using program
+   8888888888 2147483647  29895429     
+                          298954296
+4)Write code to calculate various 
+  currency exchange into INR,using 
+  Constant

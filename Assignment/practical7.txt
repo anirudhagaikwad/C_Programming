@@ -1,0 +1,14 @@
+1)Write & execute all programs which we learned  
+  in Theory class
+
+2)Write program to calculate area of below shapes : 
+  Circle,Triangle,Rectangle,Square,Rhombus,Eclipse 
+  use functions and header file to write program.
+
+3)Write menu driven program for diffrent unit conversions
+  Units --> temperature,length,speed
+  use functions and header file to write program.
+
+4)Write code to print first alphabet of your name
+  using * or # pattern
+

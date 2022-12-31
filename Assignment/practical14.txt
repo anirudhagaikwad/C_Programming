@@ -1,0 +1,15 @@
+1)Write,execute and debug all programs which we learned in 
+  Theory class
+
+2)Write program to take input student marks and stored it in 
+  dynamic memory and display percentage(use malloc)
+
+3)Write code to take input characters and stored it in dynamic 
+  memory and display ASCII value(use calloc)  
+
+4)Write code to increase size of allocated memory from Q2 and Q3
+
+
+
+
+

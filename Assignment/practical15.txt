@@ -1,0 +1,14 @@
+1)Write,execute and debug all programs which we learned in 
+  Theory class
+
+2)Write program to display student information using structure
+
+3)Write code to display employees monthly attendance sheet using 
+  structure 
+
+4)Write code to generate hotel bill using structure
+
+
+
+
+

@@ -1,0 +1,12 @@
+1)Write,execute and debug all programs which we learned  
+  in Theory class
+
+2)Alter Weekday program to display correct output
+
+3)Write a code for BPM calculator
+
+4)Write code to print first alphabet of your name
+  using * or # pattern
+
+Note : Use header file for eache problem statement.
+
