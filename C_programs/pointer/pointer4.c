@@ -15,7 +15,9 @@ int main(void)
     // value of 'b' should be same as 'a', but it won't be
     b = *p1;
 
-    printf("Value of a is: %f \n", b);
+    printf("\nValue of a is: %f \n", b); //garbage value
+    printf("\nmemory of a %p ",&a);
+        printf("\nmemory of b %p ",&b);
 
     return 0;
 }

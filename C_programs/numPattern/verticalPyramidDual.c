@@ -1,6 +1,6 @@
 /* vertical dual pyramid */
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int main()
 {
 int  n, x, y;

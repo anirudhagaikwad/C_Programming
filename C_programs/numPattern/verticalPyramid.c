@@ -1,6 +1,6 @@
 /* Vertical Number Pyramid */
 #include<stdio.h>
-#include<conio.h>
+//#include<conio.h>
 int main()
 {
 int  n, x, y;
