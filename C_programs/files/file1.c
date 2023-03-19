@@ -8,7 +8,7 @@ int main()
     fp = fopen(filename,"r");
 if (fp == NULL)
 {
-fpri ntf(stderr, "Unable to open file %s\n", filename);
+fprintf(stderr, "Unable to open file %s\n", filename);
 return 1; /* Exit to operating system */
 }
     //code that accesses the contents of the file

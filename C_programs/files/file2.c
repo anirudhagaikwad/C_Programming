@@ -17,7 +17,7 @@ fPtr = fopen("data/file1.txt", "r");
 /* fopen() return NULL if last operation was unsuccessful */
 if(fPtr == NULL)
 {
-/* Unable to open file hence exit */
+/*Unable to open file hence exit */
 printf("Unable to open file.\n");
 printf("Please check whether file exists and you have read privilege.\n");
 exit(EXIT_FAILURE);
